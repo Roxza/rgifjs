@@ -1,0 +1,20 @@
+{
+  "name": "rgif.js",
+  "version": "1.0.3",
+  "description": "Get random anime, female, male gifs.",
+  "main": "index.js",
+  "author": "Roxza#0002",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roxza/rgifjs.git"
+  },
+  "keywords": [
+    "random-gif",
+    "anime",
+    "gif"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
